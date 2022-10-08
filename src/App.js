@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Switch, Redirect } from 'react-router-dom';
 import './App.css';
 
 import Home from './Home';
@@ -24,6 +24,7 @@ function App() {
 					<Route exact path="/gardettos">
 						<Gardettos />
 					</Route>
+					<Redirect to="/" />
 				</Switch>
 			</BrowserRouter>
 		</>
