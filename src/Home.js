@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import vendingMachinImg from './vending-machine.jpg';
+import vendingMachinImg from './images/vending-machine.jpg';
 
 function VendingMachine() {
 	return (

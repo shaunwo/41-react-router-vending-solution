@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import takisImg from './Takis.jpeg';
+import takisImg from './images/Takis.jpeg';
 
 function Takis() {
 	return (

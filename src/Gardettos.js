@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import gardettosImg from './Gardettos-Snack-Mix.jpeg';
+import gardettosImg from './images/Gardettos-Snack-Mix.jpeg';
 
 function Gardettos() {
 	return (

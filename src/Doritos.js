@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import doritosImg from './Doritos.jpeg';
+import doritosImg from './images/Doritos.jpeg';
 
 function Doritos() {
 	return (
